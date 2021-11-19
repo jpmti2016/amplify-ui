@@ -1,5 +1,13 @@
 # @aws-amplify/ui-react
 
+## 2.0.1
+
+### Patch Changes
+
+- [#781](https://github.com/aws-amplify/amplify-ui/pull/781) [`4c0a44248`](https://github.com/aws-amplify/amplify-ui/commit/4c0a44248b9d3590af32caab0c3790ed673238c7) Thanks [@hvergara](https://github.com/hvergara)! - Restore component catalog nested properties
+
+* [#800](https://github.com/aws-amplify/amplify-ui/pull/800) [`c8ce9445f`](https://github.com/aws-amplify/amplify-ui/commit/c8ce9445f560c4b8e6f80985e9659f268c583768) Thanks [@hvergara](https://github.com/hvergara)! - Add backgroundImage style property
+
 ## 2.0.0
 
 ### Major Changes
